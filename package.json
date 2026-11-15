@@ -1,0 +1,13 @@
+here{
+  "name": "dark-king-bot",
+  "version": "1.0.0",
+  "description": "DARK KING BOT WhatsApp Assistant",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "dotenv": "^16.4.7"
+  }
+}
